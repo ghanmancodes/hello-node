@@ -1,4 +1,4 @@
-const func(()=>{
-console.log("Hello Node.js!");
-}
-const a= func();
+const hello = () => {
+  console.log("Hello Node.js!");
+};
+hello();
